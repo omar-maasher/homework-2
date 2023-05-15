@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center" method ="post">
+    <form   method ="post" >
+        <div class ="txtform">
+         <input type="number" name="num1"value=@ViewBag.n1  required class="txt">
+        <h1 class="op8">@ViewBag.op</h1>
+         <input type="number" name="num2" value=@ViewBag.n2  required class="txt">
+                 <h1 class="op8">=</h1>
+
+                  <input type="number" name="Result"value= @ViewBag.Result  required class="txt">
+                  </div>
+<div class="btdiv" >
+       <input type ="submit" name = "op" value="+" class ="bt" />
+        <input type ="submit" name = "op" value="-" class ="bt"/>
+    <input type ="submit" name = "op" value="*" class ="bt"/>
+    <input type ="submit" name = "op" value="/" class ="bt"/>
+</div>
+     </form>
+     <br />
+
+     
+
+</div>
+
+
+

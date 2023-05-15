@@ -1,0 +1,26 @@
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\bin\Debug\net6.0\appsettings.json
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\bin\Debug\net6.0\calculator 2 nub.staticwebassets.runtime.json
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\bin\Debug\net6.0\calculator 2 nub.exe
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\bin\Debug\net6.0\calculator 2 nub.deps.json
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\bin\Debug\net6.0\calculator 2 nub.runtimeconfig.json
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\bin\Debug\net6.0\calculator 2 nub.dll
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\bin\Debug\net6.0\ref\calculator 2 nub.dll
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\bin\Debug\net6.0\calculator 2 nub.pdb
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\obj\Debug\net6.0\calculator 2 nub.csproj.AssemblyReference.cache
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\obj\Debug\net6.0\calculator 2 nub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\obj\Debug\net6.0\calculator 2 nub.AssemblyInfoInputs.cache
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\obj\Debug\net6.0\calculator 2 nub.AssemblyInfo.cs
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\obj\Debug\net6.0\calculator 2 nub.csproj.CoreCompileInputs.cache
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\obj\Debug\net6.0\calculator 2 nub.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\obj\Debug\net6.0\calculator 2 nub.RazorAssemblyInfo.cache
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\obj\Debug\net6.0\calculator 2 nub.RazorAssemblyInfo.cs
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\obj\Debug\net6.0\scopedcss\bundle\calculator 2 nub.styles.css
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\obj\Debug\net6.0\scopedcss\projectbundle\calculator 2 nub.bundle.scp.css
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\obj\Debug\net6.0\calculator 2 nub.dll
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\obj\Debug\net6.0\ref\calculator 2 nub.dll
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\obj\Debug\net6.0\calculator 2 nub.pdb
+C:\Users\OMAR\source\repos\calculator 2 nub\calculator 2 nub\obj\Debug\net6.0\calculator 2 nub.genruntimeconfig.cache

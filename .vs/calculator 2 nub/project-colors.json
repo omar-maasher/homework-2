@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d6b786b9-3a73-453d-8d31-900094ba8cbe": {
+      "ProjectGuid": "d6b786b9-3a73-453d-8d31-900094ba8cbe",
+      "DisplayName": "calculator 2 nub",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "calculator 2 nub/1.0.0": {
+        "runtime": {
+          "calculator 2 nub.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calculator 2 nub/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,47 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+button {
+    width: 200px;
+    height: 80px;
+    margin: 20px;
+    background-color: #dcdcdd;
+}
+.bt {
+    width: 200px;
+    height: 80px;
+    margin: 20px;
+    background-color: #dcdcdd;
+}
+.txt {
+    width: 200px;
+    height: 80px;
+    text-align:center;
+    padding :5px;
+    margin:45px;
+}
+.txtform {
+    
+    display: inline-flex;
+    justify-items: center;
+}
+.op8{
+
+    display:flex;
+            align-self: center;
+}
